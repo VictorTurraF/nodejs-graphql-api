@@ -21,7 +21,7 @@
 
 ### Execução
 
-`npm run start` (ou `yarn start` se estiver usando o mesmo)
+`npm run dev` (ou `yarn dev` se estiver usando o mesmo)
 
 O servidor irá escutar a porta `4000`.
 
