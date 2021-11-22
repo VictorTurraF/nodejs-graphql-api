@@ -25,7 +25,7 @@
 
 O servidor irá escutar a porta `4000`.
 
-A url da api fica em `http://localhost:4000/api`
+A url da api fica em `http://localhost:4000`
 
 <!-- 
 ### Documentação
