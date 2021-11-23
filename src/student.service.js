@@ -25,6 +25,8 @@ function deleteById(id) {
   });
 
   students.splice(foundIndex, 1);
+
+  return foundIndex !== -1
 }
 
 function findById(id) {
